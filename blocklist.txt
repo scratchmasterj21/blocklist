@@ -1,25 +1,25 @@
-agar.io  
-bigbadwaffle.itch.io  
-virtualvacation.us  
-freecivweb.org  
-warbrokers.io  
-crazygames.com  
-thewikigame.com  
-play.threesgame.com  
-pogo.com  
-addictinggames.com  
-kingdomofloathing.com  
-darkorbit.com  
-poki.com  
-candybox2.github.io  
-slither.io  
-nachogames.itch.io  
-graebor.itch.io  
-escada-games.itch.io  
-saucekye.itch.io  
-crescence-studio.itch.io  
-freegames.org  
-agame.com  
-y8.com  
-kongregate.com  
-roblox.com
+0.0.0.0 agar.io
+0.0.0.0 bigbadwaffle.itch.io
+0.0.0.0 virtualvacation.us
+0.0.0.0 freecivweb.org
+0.0.0.0 warbrokers.io
+0.0.0.0 crazygames.com
+0.0.0.0 thewikigame.com
+0.0.0.0 play.threesgame.com
+0.0.0.0 pogo.com
+0.0.0.0 addictinggames.com
+0.0.0.0 kingdomofloathing.com
+0.0.0.0 darkorbit.com
+0.0.0.0 poki.com
+0.0.0.0 candybox2.github.io
+0.0.0.0 slither.io
+0.0.0.0 nachogames.itch.io
+0.0.0.0 graebor.itch.io
+0.0.0.0 escada-games.itch.io
+0.0.0.0 saucekye.itch.io
+0.0.0.0 crescence-studio.itch.io
+0.0.0.0 freegames.org
+0.0.0.0 agame.com
+0.0.0.0 y8.com
+0.0.0.0 kongregate.com
+0.0.0.0 roblox.com
