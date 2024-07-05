@@ -33,3 +33,6 @@
 0.0.0.0 pixiv.net
 0.0.0.0 ciel-toreca.com
 0.0.0.0 tcg-hokan.com
+0.0.0.0 shogakukan.tameshiyo.me
+0.0.0.0 typing.twi1.me
+0.0.0.0 www.majyofurogame.com
