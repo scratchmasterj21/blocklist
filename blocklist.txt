@@ -28,7 +28,7 @@
 0.0.0.0 www.chess.com
 0.0.0.0 rugugu.jp
 0.0.0.0 soritia.jp
-0.0.0.0 pokemon-card.com
+0.0.0.0 www.pokemon-card.com
 0.0.0.0 store-jp.nintendo.com
 0.0.0.0 pixiv.net
 0.0.0.0 ciel-toreca.com
